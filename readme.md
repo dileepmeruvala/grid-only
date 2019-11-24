@@ -1,5 +1,5 @@
-<h1>Grid only framework</h1>
-<p>This framework is only for grid layout with responsive</p>
+<h1>Grid only framework 1.0</h1>
+<p>Built on css flex, this framework is only for grid layout with responsive</p>
 <h2>Options:</h2>
 <h3>1) Twevle columns (Classes are like one, ten, mob-4, tab-2)</h3>
 <h3>2) Grid gap (0px to 50px, classes are like gap-10, gap-50, mob-gap-20)</h3>
